@@ -1,0 +1,7 @@
+{
+  "extends": "./tsconfig.base.json",
+  "references": [],
+  /* The remaining fields are necessary to prevent double compilation */
+  "files": [],
+  "include": []
+}

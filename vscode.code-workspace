@@ -1,0 +1,28 @@
+{
+  "folders": [
+    {
+			"name": "app:home",
+      "path": "./apps/home"
+    },
+    {
+			"name": "microapp:dashboard",
+      "path": "./microapps/dashboard"
+    },
+    {
+			"name": "root",
+      "path": "."
+    }
+  ],
+  "settings": {
+    "cSpell.words": [
+      "esbuild",
+      "ihaowu",
+      "microapp",
+      "microapps",
+      "nprogress",
+      "qiankun",
+      "vite",
+      "vitejs"
+    ]
+  }
+}
